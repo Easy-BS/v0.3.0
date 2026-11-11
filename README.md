@@ -1,1 +1,1 @@
-Fixed some known issues (Ref. OP).
+Fixed some known issues (Ref. O.P.).
